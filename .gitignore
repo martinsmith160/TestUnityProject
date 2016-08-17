@@ -22,7 +22,8 @@ sysinfo.txt
 /*.unityproj
 /*.booproj
 /.idea*/
- 
+/.suo*/
+
 # ============ #
 # OS generated #
 # ============ #
