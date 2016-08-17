@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TestVSLaunch : MonoBehaviour
 {
-    public bool test_bool;
+    public bool test_bool2;
 
 	// Use this for initialization
 	void Start () {
